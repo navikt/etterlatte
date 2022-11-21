@@ -1,0 +1,10 @@
+baseURL = 'https://navikt.github.io/etterlatte'
+languageCode = 'no-nb'
+title = 'Etterlatteytelser'
+theme = 'hugo-book'
+
+[params]
+BookTheme = 'dark'
+BookRepo = 'https://github.com/navikt/etterlatte'
+BookEditPath = 'https://github.com/navikt/etterlatte'
+BookSection = '*'
